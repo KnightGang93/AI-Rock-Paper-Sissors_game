@@ -2,7 +2,7 @@
 name = "Rock_Paper_Scissors"
 version = "0.1.0"
 description = "rock paper scissors game with machine learning"
-authors = ""
+authors = "Trevor"
 
 [tool.poetry.dependencies]
 python = "^3.8"
